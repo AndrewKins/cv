@@ -36,7 +36,7 @@
       <li>Completed 60 Credits Toward AA Degree</li>
       <li>Want to Complete a BS In Computer Science</li>
       <li>Applied to BS Program at Brooklyn College</li>
-      <li>City Tech Deffered my Enrollment Due To Incompetence</li>
+      <li>Currently Completing Programming Projects</li>
     </ul>
     <hr />
     <h3>Work Experience</h3>
@@ -53,9 +53,13 @@
           <td>Founder of Against All Oddz</td>
         </tr>
         <tr>
-          <td>2010-2021</td>
-          <td>Worked as a Retail Manager</td>
+          <td>2019-2020</td>
+          <td>Instructor at NIA Community Services</td>
         </tr>
+        <tr>
+          <td>2015-2020</td>
+          <td>Worked as a Retail Manager at Express</td>
+          </tr>
       </tbody>
       <tfoot></tfoot>
     </table>
@@ -68,7 +72,7 @@
       </tr>
       <tr>
         <td>Javascript</td>
-        <td>〽️〽️〽️〽️〽️〽️〽️〽️</td>
+        <td>〽️〽️〽️〽️</td>
       </tr>
     </table>
     <hr />
