@@ -21,7 +21,7 @@
             >
           </p>
           <p>
-            I want to be a software engineer in order to be a better person.
+            Currently Learning Software Fundamentals and Web Development.
           </p>
         </td>
       </tr>
